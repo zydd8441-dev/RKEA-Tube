@@ -1,0 +1,3 @@
+# RKEA Tube — Android app source
+Arabic Android starter with WebView browser, Android DownloadManager for direct HTTP(S) links, download status/cancel, local media library, Media3 offline playback and file sharing. It does not bypass DRM or extract protected YouTube streams. Advanced subtitle, gesture, conversion and pause/resume features are not included yet.
+Build: GitHub Actions > Build RKEA Tube APK > Run workflow. Download artifact RKEA-Tube-debug-apk from a successful run.
